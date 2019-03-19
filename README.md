@@ -1,2 +1,2 @@
 # hello-world
-hello word project for repo
+Hi ants!
